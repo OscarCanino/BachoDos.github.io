@@ -1,0 +1,13 @@
+#tit{
+    text-align: center;
+    color: blueviolet;
+    background-color: bisque;
+    border: solid;
+    font-style: oblique;
+    font-size: 50px;
+}
+#marco{
+    border: inset;
+    border-color: aquamarine;
+    padding: 10px;
+}

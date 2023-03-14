@@ -1,0 +1,58 @@
+
+#tit{
+    text-align: center;
+    font-size: 24px;
+    width: 100%;
+    border: inset;
+    background-color: cornsilk;
+    font-style: oblique;
+    
+}
+p{
+    text-align: justify;
+    border: outset;
+    width: 50%
+}
+#ima2{
+    display: inline-block;
+    width: 15%;
+    border: solid;
+    border-color: beige;
+    float: left;
+    
+}
+#ima{
+    display: inline-block;
+    width: 12.%;
+    border: solid;
+    border-color: beige;
+    float: right;
+    
+}
+table, th, td{
+    border: 2px inset black;
+    border-collapse: collapse;
+    
+}
+table{
+    width: 60%;
+}
+th, td{
+    padding: 5px;
+}
+th{
+    text-align: center;
+    background-color: antiquewhite
+}
+td{
+    text-align: center;
+    background-color: azure
+}
+#imagenes{
+   display: flex;
+    margin-left: 150px;
+}
+#imagenes2{
+    display: flex;
+    margin-left: 150px;
+}

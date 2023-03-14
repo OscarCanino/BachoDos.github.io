@@ -1,0 +1,24 @@
+#imagenes{
+    display: inline-block;
+    float: left;
+    border: solid;
+    
+    width: 20%;
+    height: 800px;
+}
+#titulos{
+    display: inline-block;
+    text-align: center;
+    font-size: 25px;
+    font-style: oblique;
+    
+}
+.texto{
+    padding: 8px;
+    display: inline-block;
+    text-align: justify;
+    border: outset;
+    margin: 80;
+    width: 73%;
+    
+}

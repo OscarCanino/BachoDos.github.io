@@ -1,0 +1,20 @@
+#mapa{
+    display: inline-block;
+    width: 33.1%;
+    float: right;
+    border: inset;        
+}
+#titulos{
+    text-align: center;
+    font-style: oblique;
+    
+}
+.textos{
+    text-align: justify;
+}
+.tit{
+    width: 5%;
+    border: solid;
+    border-color: burlywood;
+    background-color: antiquewhite;
+}

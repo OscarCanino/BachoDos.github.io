@@ -1,0 +1,47 @@
+#logo1{
+    display: inline-block;
+    width: 12%;
+    float: left;
+}
+#titulo{
+    display: inline-block;
+    width: 60%;
+    text-align: center;
+    background: linear-gradient(to right, #ff0099, #493240);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#logo2{
+    display: inline-block;
+    width: 12%;
+    text-align: right;
+}
+#barra{
+    clear: both;
+}
+.menus{
+    display: inline-block;
+    width: 15%;
+    background-color: antiquewhite;
+    font-size: 20px;
+    text-align: center;
+    border: inset;
+    border-color: bisque;
+}
+#marco{
+    width: 99%;
+    padding: 8px;
+    height: 400px;
+    border-color: darkred;
+    
+}
+#pie{
+    text-align: center;
+    font-size: 20px;
+    border: outset;
+    border-color: maroon;
+    width: 100%
+}
+body{
+    background-image: linear-gradient(to bottom, #6bd1a9, #6fd5b2, #73daba, #78dec3, #7ee2cb, #77e2d3, #71e1db, #6de0e2, #5edaea, #56d4f2, #56cdf7, #5fc5fb);
+}
